@@ -13,6 +13,15 @@ This project is a beginner-friendly console application built to practice loops,
 
 ---
 
+## Download:
+
+<a href="/icreaterandomapps/TextReverser/releases/download/reverse/TextReverser.exe" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate">
+    <span data-view-component="true" class="Truncate-text text-bold">TextReverser.exe</span>
+    <span data-view-component="true" class="Truncate-text"></span>
+</a>
+
+---
+
 ## 🧠 How It Works
 
 The program reads your input text and reverses it character by character using a loop.
@@ -24,6 +33,6 @@ Output: olleh
 
  ---
 
- i made this in python
+Made this in python
 
 Made by a Python learner building small projects to improve coding skills
