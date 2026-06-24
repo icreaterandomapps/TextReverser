@@ -22,7 +22,7 @@ This project is a beginner-friendly console application built to practice loops,
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The program reads your input text and reverses it character by character using a loop.
 
